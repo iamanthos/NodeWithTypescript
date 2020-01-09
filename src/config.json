@@ -1,0 +1,8 @@
+{
+  "db": {
+    "user": "sa",
+    "password": "P@ssword123",
+    "server": "localhost",
+    "database": "NodeApp"
+  }
+}
